@@ -1,0 +1,7 @@
+ecco "#c-programming">>README.me
+git init
+git add README.me
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/c-programmaing.git
+git push -u origin main
